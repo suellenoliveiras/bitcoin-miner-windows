@@ -21,7 +21,7 @@ Get started with Microsoft SQL Server downloads.
 
 ### Executing program
 
-SQL Server 2019 download and how to install it on Windows 11/10/8/7. On This Page :.
+Miner2x  download and how to install it on Windows 11/10/8/7. On This Page :.
 
 ## License
 
